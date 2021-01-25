@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="826bd8ce-d79d-4993-97f4-8f01908eb948" name="Default Changelist" comment="" />
+    <list default="true" id="826bd8ce-d79d-4993-97f4-8f01908eb948" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/logo.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,13 +23,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1nZGLZs6kzPqQoKllI8kj4vtWeS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -31,12 +48,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8081">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
       <method v="2" />
     </configuration>
   </component>
@@ -48,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611590143262</updated>
-      <workItem from="1611590146953" duration="3230000" />
+      <workItem from="1611590146953" duration="9140000" />
     </task>
     <servers />
   </component>
@@ -60,33 +80,73 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="354" y="132" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1611591338357" />
+    <state x="437" y="278" key="#Notifications" timestamp="1611595623088">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="437" y="278" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1611595623088" />
     <state x="393" y="116" key="#PHP" timestamp="1611590571863">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="393" y="116" key="#PHP/0.0.1440.900@0.0.1440.900" timestamp="1611590571863" />
-    <state x="184" y="109" width="1071" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611590573310">
+    <state x="430" y="68" key="#SSH_Configurations" timestamp="1611597706199">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="109" width="1071" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1611590573310" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1611591666392">
+    <state x="430" y="68" key="#SSH_Configurations/0.0.1440.900@0.0.1440.900" timestamp="1611597706199" />
+    <state x="434" y="78" key="#Servers" timestamp="1611596631038">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611591666392" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1611591666390">
+    <state x="434" y="78" key="#Servers/0.0.1440.900@0.0.1440.900" timestamp="1611596631038" />
+    <state x="311" y="59" width="1071" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611597843128">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611591666390" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1611591666389">
+    <state x="311" y="59" width="1071" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1611597843128" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611599817867">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611591666389" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1611591666391">
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1611599817867" />
+    <state x="572" y="351" key="Github.ShareDialog" timestamp="1611594478321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611591666391" />
+    <state x="572" y="351" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1611594478321" />
+    <state x="502" y="152" key="Github.UntrackedFilesDialog" timestamp="1611594496341">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="502" y="152" key="Github.UntrackedFilesDialog/0.25.1440.805@0.25.1440.805" timestamp="1611594496341" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1611599663441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611599663441" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1611599663439">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611599663439" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1611599663438">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611599663438" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1611599663440">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611599663440" />
+    <state width="228" height="457" key="HiddenNamespacesPopup" timestamp="1611597383211">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="228" height="457" key="HiddenNamespacesPopup/0.0.1440.900@0.0.1440.900" timestamp="1611597383211" />
     <state x="540" y="377" key="NewPhpFileDialog" timestamp="1611592298218">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="540" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1611592298218" />
+    <state x="602" y="298" key="cloudConfig.SelfSettingsDialog" timestamp="1611595864897">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="602" y="298" key="cloudConfig.SelfSettingsDialog/0.0.1440.900@0.0.1440.900" timestamp="1611595864897" />
+    <state x="570" y="302" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1611596528200">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="570" y="302" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1440.900@0.0.1440.900" timestamp="1611596528200" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1611596532984">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1611596532984" />
   </component>
 </project>

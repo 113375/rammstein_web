@@ -2,6 +2,7 @@ body {
     /*стили главного экрана*/
     background-color: #000000;
     background-size: 100%;
+    min-width: 270px;
 }
 
 a {
@@ -12,8 +13,20 @@ a {
 }
 
 .header li {
-    /*стили htader*/
+    /*стили header*/
     list-style-type: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    width: 100%;
+}
+.logo{
+    width: 100px
 }
 
 .header li a:hover {
@@ -27,4 +40,21 @@ a {
 p {
     /*чтобы весь буквы были белыми*/
     color: #ffffff;
+}
+
+.left {
+    /*Левый блок на сайте*/
+    background-repeat: no-repeat;
+    width: 60%;
+    align-content: center;
+}
+
+.left img {
+    /*толщина квартиры*/
+    width: 80%;
+}
+
+.block {
+    /*блок*/
+    display: flex;
 }

@@ -12,7 +12,15 @@
 <body>
 <div class="container">
     <?php include("header.php") ?>
-    <p>Hello world!</p>
+    <div class="block">
+        <div class="left">
+            <img src="img/rammstein.jpg" alt="image">
+        </div>
+        <div class="text">
+            <p>Rammstein - </p>
+        </div>
+    </div>
+
 </div>
 
 </body>
