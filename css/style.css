@@ -1,0 +1,30 @@
+body {
+    /*стили главного экрана*/
+    background-color: #000000;
+    background-size: 100%;
+}
+
+a {
+    /*стили header*/
+    color: #ffffff;
+    transition: all 0.5s ease-out;
+    font-size: 20px;
+}
+
+.header li {
+    /*стили htader*/
+    list-style-type: none;
+}
+
+.header li a:hover {
+    /*header при наведении*/
+    color: #3ddee2;
+    text-decoration: none;
+
+}
+
+
+p {
+    /*чтобы весь буквы были белыми*/
+    color: #ffffff;
+}
