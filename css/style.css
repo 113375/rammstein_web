@@ -2,7 +2,7 @@ body {
     /*стили главного экрана*/
     background-color: #000000;
     background-size: 100%;
-    min-width: 270px;
+    min-width: 400px;
 }
 
 a {
@@ -45,16 +45,22 @@ p {
 .left {
     /*Левый блок на сайте*/
     background-repeat: no-repeat;
-    width: 60%;
+    width: 50%;
     align-content: center;
 }
 
 .left img {
     /*толщина квартиры*/
-    width: 80%;
+    width: 90%;
 }
 
 .block {
     /*блок*/
     display: flex;
+}
+/*.text p{*/
+/*    font-size: 15px;*/
+/*}*/
+.text{
+    max-width: 50%;
 }

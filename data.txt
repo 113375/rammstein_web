@@ -1,0 +1,2 @@
+1;Herzeleid;1995;Самый первый альбом группы;/img/herzeleid.jpg
+2;Sehnsucht;1997;Самый мрачный альбом группы;/img/sehnsucht.jpg
