@@ -64,3 +64,23 @@ p {
 .text{
     max-width: 50%;
 }
+
+.image{
+    /*стиль картинки вместе с текстом*/
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.image img{
+    /*стиль картинки*/
+    width: 100%;
+    height: 100%;
+    padding: 20px 20px 20px 20px;
+}
+.img_and_text{
+    /*стиль блока, в котором по две картинки*/
+    display: flex;
+    margin-inline: 20px;
+}

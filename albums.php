@@ -20,18 +20,21 @@
         $all_data[$i] = explode(";", $line);
         $i++;
     }
-    function image($all_data, $i)
-    {
-        return (string)$all_data[$i][4];
-    }
-
-    print_r($all_data);
     ?>
-    <?php for ($i = 0; $i < 2; $i++): ?>
-        <div class="img_and_text">
-            <img src=<?php image($all_data, $i) ?>."" alt="">
-        </div>
-    <?php endfor; ?>
+    <?php for ($i = 0;
+    $i < 2;
+    $i += 2): ?>
+    <!--    Тут вот идет заполнение сайта всеми альбомами группы, чтобы не делать это автоматически, я делаю это через php-->
+    <div class="img_and_text">
+        <div class="image">
+            <p><?= $all_data[$i][1] ?></p>
+            <a href="#"><img src="<?= $all_data[$i][4] ?>" alt=""></a></div>
+        <div class="image">
+            <p><?= $all_data[$i + 1][1] ?></p>
+            <a href="#"><img src="<?= $all_data[$i + 1][4] ?>" alt=""></a></div>
+    </div>
 </div>
+
+<?php endfor; ?>
 </body>
 </html>

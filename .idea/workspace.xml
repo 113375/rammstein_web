@@ -26,15 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="826bd8ce-d79d-4993-97f4-8f01908eb948" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/albums.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/herzeleid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sehnsucht.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums.php" beforeDir="false" afterPath="$PROJECT_DIR$/albums.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +96,7 @@
       <updated>1611590143262</updated>
       <workItem from="1611590146953" duration="9919000" />
       <workItem from="1611685188688" duration="546000" />
-      <workItem from="1611685896096" duration="3322000" />
+      <workItem from="1611685896096" duration="5227000" />
     </task>
     <task id="LOCAL-00001" summary="Делаю дизайн, улучшил header.php">
       <created>1611600760536</created>
@@ -110,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611600760536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавляю альбомы(стараюсь)">
+      <created>1611689653926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611689653926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +145,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Делаю дизайн, улучшил header.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Делаю дизайн, улучшил header.php" />
+    <MESSAGE value="Добавляю альбомы(стараюсь)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавляю альбомы(стараюсь)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="132" key="#Inspections" timestamp="1611591338357">
@@ -206,10 +209,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="540" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1611687573992" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1611600764507">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1611689657398">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611600764507" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611689657398" />
     <state x="602" y="298" key="cloudConfig.SelfSettingsDialog" timestamp="1611595864897">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
