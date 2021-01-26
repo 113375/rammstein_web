@@ -22,19 +22,20 @@
     }
     ?>
     <?php for ($i = 0;
-    $i < 2;
-    $i += 2): ?>
-    <!--    Тут вот идет заполнение сайта всеми альбомами группы, чтобы не делать это автоматически, я делаю это через php-->
-    <div class="img_and_text">
-        <div class="image">
-            <p><?= $all_data[$i][1] ?></p>
-            <a href="#"><img src="<?= $all_data[$i][4] ?>" alt=""></a></div>
-        <div class="image">
-            <p><?= $all_data[$i + 1][1] ?></p>
-            <a href="#"><img src="<?= $all_data[$i + 1][4] ?>" alt=""></a></div>
-    </div>
-</div>
+               $i < 4;
+               $i += 2): ?>
+        <!--    Тут вот идет заполнение сайта всеми альбомами группы, чтобы не делать это автоматически, я делаю это через php-->
+        <div class="img_and_text">
+            <div class="image">
+                <p><?= $all_data[$i][1] ?></p>
+                <a href="#"><img src="<?= $all_data[$i][4] ?>" alt=""></a></div>
+            <div class="image">
+                <p><?= $all_data[$i + 1][1] ?></p>
+                <a href="#"><img src="<?= $all_data[$i + 1][4] ?>" alt=""></a></div>
+        </div>
 
-<?php endfor; ?>
+
+    <?php endfor; ?>
+</div>
 </body>
 </html>

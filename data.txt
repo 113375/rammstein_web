@@ -1,2 +1,4 @@
 1;Herzeleid;1995;Самый первый альбом группы;/img/herzeleid.jpg
 2;Sehnsucht;1997;Самый мрачный альбом группы;/img/sehnsucht.jpg
+3;Mutter;2001;Альбом, сделавший их популярными;/img/mutter.jpeg
+4;Reise reise;2004;О путешествиях по свету);/img/reise.jpeg
