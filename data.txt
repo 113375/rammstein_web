@@ -1,4 +1,7 @@
 1;Herzeleid;1995;Самый первый альбом группы;/img/herzeleid.jpg
 2;Sehnsucht;1997;Самый мрачный альбом группы;/img/sehnsucht.jpg
-3;Mutter;2001;Альбом, сделавший их популярными;/img/mutter.jpeg
-4;Reise reise;2004;О путешествиях по свету);/img/reise.jpeg
+3;Mutter;2001;Альбом, сделавший их популярными;/img/mutter.jpg
+4;Reise, reise;2004;О путешествиях по свету);/img/reise.jpg
+5;Rosenrot;2005;Эксперименты группы;/img/rosenrot.jpg
+6;Liebe ist für alle da;2009;Просто оч крутой альбом;/img/liebe.jpeg
+7;RAMMSTEIN;2019;После более десяти лет ожидания, публика получила свое;/img/ramm.jpg;

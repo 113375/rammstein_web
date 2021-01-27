@@ -14,24 +14,24 @@
     <?php include("header.php");
     $data = fopen("data.txt", "r");
     $all_data = array();
-    $i = 0;
+    $j = 0;
     while (($line = fgets($data)) !== false) {
 
-        $all_data[$i] = explode(";", $line);
-        $i++;
+        $all_data[$j] = explode(";", $line);
+        $j++;
     }
     ?>
     <?php for ($i = 0;
-               $i < 4;
+               $i < $j;
                $i += 2): ?>
         <!--    Тут вот идет заполнение сайта всеми альбомами группы, чтобы не делать это автоматически, я делаю это через php-->
         <div class="img_and_text">
             <div class="image">
                 <p><?= $all_data[$i][1] ?></p>
-                <a href="#"><img src="<?= $all_data[$i][4] ?>" alt=""></a></div>
+                <a href="about_album.php?album=<?=$i+1?>"><img src="<?= $all_data[$i][4]?>" alt=""></a></div>
             <div class="image">
                 <p><?= $all_data[$i + 1][1] ?></p>
-                <a href="#"><img src="<?= $all_data[$i + 1][4] ?>" alt=""></a></div>
+                <a href="about_album.php?album=<?=$i+2?>"><img src="<?= $all_data[$i + 1][4] ?>" alt=""></a></div>
         </div>
 
 

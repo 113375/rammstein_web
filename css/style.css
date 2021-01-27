@@ -7,7 +7,7 @@ body {
 
 a {
     /*стили header*/
-    color: #ffffff;
+    color: #c6b5b5;
     transition: all 0.5s ease-out;
     font-size: 20px;
 }
@@ -47,6 +47,8 @@ p {
     background-repeat: no-repeat;
     width: 50%;
     align-content: center;
+    font-size: 30px;
+    text-align: center;
 }
 
 .left img {
@@ -63,6 +65,22 @@ p {
 /*}*/
 .text{
     max-width: 50%;
+    color: #ffffff;
+    font-size: 21px;
+}
+
+.text_of_song{
+    width: 50%;
+    color: #ffffff;
+    font-size: 21px;
+    text-align: center;
+}
+.text_of_song p{
+    font-size: 30px;
+
+}
+.text_of_song ul{
+    list-style-type: none;
 }
 
 .image{
@@ -83,4 +101,17 @@ p {
     /*стиль блока, в котором по две картинки*/
     display: flex;
     margin-inline: 20px;
+}
+.image p:hover{
+    color: #8f0808;
+}
+.text {
+    align-items: center;
+}
+.image p{
+    transition: all 0.5s ease-out;
+}
+
+.discribe{
+    margin-top: 30px;
 }
