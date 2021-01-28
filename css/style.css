@@ -9,7 +9,7 @@ a {
     /*стили header*/
     color: #c6b5b5;
     transition: all 0.5s ease-out;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .header li {
@@ -17,15 +17,16 @@ a {
     list-style-type: none;
 }
 
-.header{
+.header {
     display: flex;
     align-items: center;
 }
 
-.logo img{
+.logo img {
     width: 100%;
 }
-.logo{
+
+.logo {
     width: 100px
 }
 
@@ -59,31 +60,37 @@ p {
 .block {
     /*блок*/
     display: flex;
-}
-/*.text p{*/
-/*    font-size: 15px;*/
-/*}*/
-.text{
-    max-width: 50%;
-    color: #ffffff;
-    font-size: 21px;
+    /*margin-top: 20px;*/
 }
 
-.text_of_song{
+.text p {
+    font-size: 17px;
+    /*margin-top: 20px;*/
+}
+
+.text {
+    max-width: 100%;
+    color: #ffffff;
+    font-size: 21px;
+    margin-top: 20px;
+}
+
+.text_of_song {
     width: 50%;
     color: #ffffff;
     font-size: 21px;
     text-align: center;
 }
-.text_of_song p{
-    font-size: 30px;
 
+.text_of_song p {
+    font-size: 30px;
 }
-.text_of_song ul{
+
+.text_of_song ul {
     list-style-type: none;
 }
 
-.image{
+.image {
     /*стиль картинки вместе с текстом*/
     text-align: center;
     width: 50%;
@@ -91,27 +98,67 @@ p {
     margin-top: 20px;
     font-size: 50px;
 }
-.image img{
+
+.image img {
     /*стиль картинки*/
     width: 100%;
     height: 100%;
     padding: 20px 20px 20px 20px;
 }
-.img_and_text{
+
+.img_and_text {
     /*стиль блока, в котором по две картинки*/
     display: flex;
     margin-inline: 20px;
 }
-.image p:hover{
+
+.image p:hover {
     color: #8f0808;
 }
-.text {
-    align-items: center;
-}
-.image p{
+
+.image p {
+    /*изменение текста над картинками альбомов*/
     transition: all 0.5s ease-out;
 }
 
-.discribe{
+.discribe {
+    /*стили описания из альбомов*/
     margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.images {
+    display: flex;
+}
+
+.text_discribe {
+    color: #ffffff;
+    margin: 20px 20px 20px 20px;
+    font-size: 20px;
+}
+
+.image2 {
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.image2 p:hover {
+    color: #8f0808;
+}
+
+.image2 p {
+    /*изменение текста над картинками альбомов*/
+    transition: all 1s ease-out;
+}
+
+.image2 img {
+    /*стиль картинки*/
+    width: 100%;
+    height: 100%;
+    padding: 20px 20px 20px 20px;
 }
