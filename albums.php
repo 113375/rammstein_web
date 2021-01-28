@@ -36,6 +36,7 @@
 
 
     <?php endfor; ?>
+    <?php include ("footer.php")?>
 </div>
 </body>
 </html>
