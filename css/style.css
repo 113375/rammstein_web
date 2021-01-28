@@ -116,10 +116,6 @@ p {
     color: #8f0808;
 }
 
-.image p {
-    /*изменение текста над картинками альбомов*/
-    transition: all 0.5s ease-out;
-}
 
 .discribe {
     /*стили описания из альбомов*/
@@ -163,13 +159,42 @@ p {
     padding: 20px 20px 20px 20px;
 }
 
-.modal-footer{
+.modal-footer {
     font-size: 15px;
 }
-.modal-footer a{
+
+.modal-footer a {
     font-size: 15px;
     text-decoration: none;
 }
-form{
+
+form {
     margin: 20px 20px 20px 20px;
+}
+
+.discribe a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.left a {
+    color: white;
+    text-decoration: none;
+    transition: all 1s ease-out;
+    font-size: 50px;
+}
+
+.left a:hover {
+    color: #8f0808;
+
+}
+
+.image a {
+    text-decoration: none;
+    font-size: 50px;
+
+}
+
+.image a:hover {
+    color: #8f0808;
 }

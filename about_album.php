@@ -58,6 +58,7 @@ $all_data = $all_data[$_GET['album'] - 1]; ?>
     <div class="discribe">
         <p><?= $all_data[3] ?></p>
     </div>
+    <?php include("footer.php") ?>
 
 </div>
 

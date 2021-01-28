@@ -11,13 +11,13 @@
 </head>
 <body>
 <div class="container">
-    <?php include ("header.php");?>
+    <?php include("header.php"); ?>
 
     <form action="" method="post">
         <p>В каком году вышел первый альбом рамштайн? <input type="text" class="input-group-text"></p>
         <button class="btn btn-light" type="submit">Отправить</button>
     </form>
-    <?php include ("footer.php")?>
+    <?php include("footer.php") ?>
 </div>
 
 </body>
